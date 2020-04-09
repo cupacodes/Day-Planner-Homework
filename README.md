@@ -1,1 +1,1 @@
-My DayPlanner
+This is my Day Planner Homework.
